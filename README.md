@@ -2,7 +2,7 @@
 
 Information about List of software and applications ported to Rust from other languages (C++, Go, Python..)
 
-Note: This is not list of "Rewritten in Rust" software nor a curated listed of software written in Rust. 
+Note: This is not a curated listed of software written in Rust. 
 Just contains software(or just modules) ported from another language to rust
 
 ### From C/C++ to Rust
